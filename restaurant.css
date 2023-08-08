@@ -1,0 +1,157 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Montserrat', sans-serif;
+   background-color: black;
+   
+    
+    
+}
+.q{
+    margin-left: -800px;
+   justify-content: flex-start;
+   margin-top: -836px;
+   color: rgb(244, 248, 248);
+
+}
+.q h1{
+    font-size: 80px;
+}
+.q h6{
+    margin-left: 110px;
+    font-size: 20px;
+    margin-top: -10px;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+   margin-left: 720px;
+   margin-top: -159px;
+  align-items: center;
+   width: 85%;
+}
+.linkitems{
+    display: inline-block;
+    margin: 10px 20px;
+   
+
+   
+}
+.links{
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(250, 249, 249);
+}
+.links:hover{
+    color: rgb(250, 145, 7);
+}
+.w{
+    color: whitesmoke;
+    margin-top: 690px;
+    font-size: 30px;
+    margin-left: 20px;
+}
+#Menu{
+   
+   
+   margin-top: 20px;
+    background-color: rgb(10, 10, 10);
+    width: 100%;
+    margin-bottom: 60px;
+
+ 
+}
+ .h{
+  margin-left: -870px;
+  
+
+}
+.r{
+    float: right;
+    margin-right: 550px;
+    margin-top: -420px;
+    margin-left: 50px;
+    
+}
+.t{
+margin-right: -600px;
+    margin-top: -424px;
+    
+    
+}
+h3{
+    margin-right: 80px ;
+}
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+form{
+    margin-left: 350px;
+    border: 1px solid white; 
+    width: 500px; 
+    height: 650px; 
+    background-color: rgb(248, 203, 2);
+}
+label{
+    font-size: 20px; 
+    padding: 10px; 
+    background-color: rgb(248, 203, 2);
+    color: black;
+    margin-right: 240px;
+    font-family: 'Courier New', Courier, monospace;
+}
+input{
+    font-size: 20px; 
+    padding: 10px; 
+    background-color:rgb(245, 244, 239);
+
+}
+#cn{
+   background-color: aliceblue;
+}
+.contact{
+    background-color: rgb(224, 34, 9);
+}
+.c1{
+    background-color: black;
+}
+
+.c3{
+    font-size: 20px;
+    margin-right: 10px;
+    
+}
+
+.cc{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 20px;
+}
+.c4{
+    margin-left: 530px;
+   
+   
+}
+.c4:hover{
+    color: orange;
+}
+.c5{
+    margin-left: 30px;
+}
+.c5:hover{
+    color: orange;
+}
+.c6{
+    margin-left: 30px;
+}
+.c6:hover{
+    color: orange;
+    
+}
+.c7{
+    margin-left: 30px;
+}
+.c7:hover{
+    color: orange;
+}
