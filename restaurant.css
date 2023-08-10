@@ -17,10 +17,16 @@
 .q h1{
     font-size: 80px;
 }
+.q h1:hover{
+    color: orange;
+}
 .q h6{
     margin-left: 110px;
     font-size: 20px;
     margin-top: -10px;
+}
+.q h6:hover{
+    color: orange;
 }
 .navbar{
     display: flex;
@@ -105,6 +111,7 @@ input{
     font-size: 20px; 
     padding: 10px; 
     background-color:rgb(245, 244, 239);
+   
 
 }
 #cn{
@@ -155,3 +162,12 @@ input{
 .c7:hover{
     color: orange;
 }
+p{
+    margin-top: 15px;
+   color: antiquewhite;
+}
+
+button:hover{
+    color: rgb(20, 4, 243);
+}
+
